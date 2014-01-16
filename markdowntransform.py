@@ -1,3 +1,5 @@
+import re
+
 def processLink(app, docname, source):
     original = source[0]
     subbed = re.sub(r"\[(.+)\]\((.+)\)", r"`\1 <\2>`_", original)

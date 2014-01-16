@@ -1,5 +1,5 @@
-Sphinx Markdown Link
-====================
+Sphinx Markdown Transform
+=========================
 
 A Sphinx extension that supports turning Markdown-style links into RST links::
 
