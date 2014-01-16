@@ -20,7 +20,7 @@ Install
 
     pip install git+https://github.com/ericholscher/sphinx-markdown-transform#egg=sphinx-markdown-transform
 
-Then in your Sphinx config::
+Then in your Sphinx ``conf.py``::
 
     extensions += ['markdowntransform']
 
